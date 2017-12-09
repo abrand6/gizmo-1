@@ -1,3 +1,11 @@
+# GIZMO PIXEL - Interactive robotic pet code
+# Version 50 6/12/17
+# Ben Cobley and Joe Shepherd November 2017
+
+#Utils.py : functions file 
+
+
+
 # OPTICAL TRACKING
 
 # SimpleCV is a simplified, accessible version of OpenCV, where much of OpenCV's customisable functionality is condensed
