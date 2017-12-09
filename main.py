@@ -12,6 +12,8 @@ from __future__ import division  # change the / operator to mean true division
 
 print('GIZMO PIXEL - COPYRIGHT BEN COBLEY AND JOE SHEPHERD NOVEMBER 2017')
 
+print('Importing utils...')  # import from utils file
+from utils import *
 print('Importing SimpleCV...')  # import optical tracking
 import SimpleCV
 print('Importing OMXPLAYER...')  # import video player
