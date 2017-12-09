@@ -2,8 +2,27 @@
 # Version 50 6/12/17
 # Ben Cobley and Joe Shepherd November 2017
 
-#Utils.py : functions file 
+# utils.py: contains all functions required for main.py
 
+print('Importing SimpleCV...')  # import optical tracking
+import SimpleCV
+print('Importing OMXPLAYER...')  # import video player
+from omxplayer.player import *
+print('Importing pathlib...')  # import object oriented file system paths
+from pathlib import Path
+print('Importing GPIO...')  # import GPIO control
+import RPi.GPIO as GPIO
+print('Importing time...')
+import time  # import time
+print('Importing math...')
+import math  # import mathS
+print('Importing numpy...')
+import numpy  # import numpy
+print('Importing random...')
+import random  # import random
+print('Importing LED driver...')
+import Adafruit_WS2801   # import LED drivers
+import Adafruit_GPIO.SPI as SPI # import Serial Peripheral Interface for GPIO
 
 
 # OPTICAL TRACKING
