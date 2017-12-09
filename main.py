@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+#(Shebang to ensure the interpreter used is the first in the environment's $PATH)
+
 
 # GIZMO PIXEL - Interactive robotic pet code
 # Version 50 6/12/17
