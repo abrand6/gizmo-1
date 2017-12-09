@@ -14,25 +14,6 @@ print('GIZMO PIXEL - COPYRIGHT BEN COBLEY AND JOE SHEPHERD NOVEMBER 2017')
 
 print('Importing utils...')  # import from utils file
 from utils import *
-print('Importing SimpleCV...')  # import optical tracking
-import SimpleCV
-print('Importing OMXPLAYER...')  # import video player
-from omxplayer.player import *
-print('Importing pathlib...')  # import object oriented file system paths
-from pathlib import Path
-print('Importing GPIO...')  # import GPIO control
-import RPi.GPIO as GPIO
-print('Importing time...')
-import time  # import time
-print('Importing math...')
-import math  # import mathS
-print('Importing numpy...')
-import numpy  # import numpy
-print('Importing random...')
-import random  # import random
-print('Importing LED driver...')
-import Adafruit_WS2801   # import LED drivers
-import Adafruit_GPIO.SPI as SPI # import Serial Peripheral Interface for GPIO
 
 # SETTINGS
 
